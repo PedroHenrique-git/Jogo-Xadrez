@@ -1,3 +1,7 @@
-# Jogo-Xadrez
+<h1 align="center">Jogo de Xadrez</h1>
 
-jogo de xadrez feito durante o curso c#
+<p align="left">
+  Jogo de xadres desenvolvido durante o curso c# 2020 do professor Nelio alves
+  <br>
+  Para clonar o repositório bastar usar o comando: git clone
+</p>
